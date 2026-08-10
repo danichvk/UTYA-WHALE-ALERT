@@ -14,7 +14,7 @@ CHANNEL_ID = "@chetoUtyaAlert"                 # Замените!
 TONCENTER_API_KEY = "4b0245d06e6dd23f5422c22f1c7fa6ba0cf4d0ec9f0077c87e1e51938ce23dc8"         # Замените!
 
 POOL_ADDRESS = "EQCO9NDT4Il25_4ZpHIOgMAUbRJvpsI9pLzqhD8X7eTVB7X_"
-THRESHOLD_TON = 10000.0
+THRESHOLD_TON = 10.0
 POLL_INTERVAL = 10
 # =========================
 
