@@ -9,9 +9,9 @@ import aiohttp
 import os
 
 # === КОНФИГУРАЦИЯ ===
-TELEGRAM_TOKEN = "ВАШ_ТОКЕН_БОТА"          # Замените!
-CHANNEL_ID = "@ваш_канал"                 # Замените!
-TONCENTER_API_KEY = "ВАШ_API_KEY"         # Замените!
+TELEGRAM_TOKEN = "8846910732:AAFbZdiJ6mPIVwY-W3wWzh9epOgdU7jtc0s"          # Замените!
+CHANNEL_ID = "@chetoUtyaAlert"                 # Замените!
+TONCENTER_API_KEY = "4b0245d06e6dd23f5422c22f1c7fa6ba0cf4d0ec9f0077c87e1e51938ce23dc8"         # Замените!
 
 POOL_ADDRESS = "EQCO9NDT4Il25_4ZpHIOgMAUbRJvpsI9pLzqhD8X7eTVB7X_"
 THRESHOLD_TON = 10000.0
